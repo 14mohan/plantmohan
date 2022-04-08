@@ -1,9 +1,0 @@
-link php	: https://www.codegrepper.com/code-examples/php/echo+header+location+php
-
-
-replace img in php:	https://www.cluemediator.com/replace-image-src-in-html-using-php#:~:text=1-,%24image%2D%3EgetAttribute('src')%3B,attribute%20value%20in%20img%20tag.&text=1-,%24tag%2D%3EsetAttribute('src'%2C%20%24new_src,Save%20the%20changes.
-
-if cond:	https://www.w3schools.com/php/php_if_else.asp
-
-
-get element y id in php:	https://stackoverflow.com/questions/54600554/how-to-get-element-by-id-in-php
